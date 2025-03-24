@@ -46,7 +46,7 @@
 - **Описание:** CRM для застройщиков и ЖК-менеджеров  
 - **Роль:** Solo frontend  
 - **Стек:** React Native, TypeScript, React Query, FastAPI, OpenAPI, NativeBase  
-- 🔗 App Store
+- 🔗 [App Store](https://apps.apple.com/us/app/roomer/id6476490088)
 
 ---
 
@@ -61,7 +61,7 @@
 - **Описание:** новостной спорт-агрегатор  
 - **Роль:** Поддержка (один в команде)  
 - **Стек:** React Native, TypeScript, GraphQL, AppCenter  
-- 🔗 App Store
+- 🔗 [App Store](https://apps.apple.com/ru/app/metaratings/id6502640338)
 
 ---
 
